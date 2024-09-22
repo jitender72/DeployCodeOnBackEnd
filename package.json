@@ -1,0 +1,21 @@
+{
+  "name": "backendcodedeath",
+  "version": "1.0.0",
+  "description": "learn backend with code Death",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "jitender",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.6.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7"
+  }
+}
